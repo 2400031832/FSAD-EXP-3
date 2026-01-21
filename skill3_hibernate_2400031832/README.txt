@@ -1,0 +1,1 @@
+Skill 3 HQL tasks. Student ID 2400031832.
